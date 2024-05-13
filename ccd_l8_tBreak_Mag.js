@@ -7,8 +7,8 @@
  Step 2: Define dates for the change detection in decimal years
  Step 3: Define maxChangeBand (the band to use to calculate maximum change, default swir2)
  Step 4: Define runtype to select if you would like to run the whole province by TSA or select one of the TSAs. In this case TSA 33 is the test 
- Step 5: Change line 119 to point to your folder with polygons
- Step 5: Scroll down to line 152 to alter ccdc parameters if needed
+ Step 5: Change lines 50-56 to alter ccdc parameters if needed
+ Step 6: Change line 119 to point to your folder with polygons
  
 */
 
